@@ -1,16 +1,47 @@
-## 👋Hi, I'm Rumpa
+# 👋Hi, I'm Rumpa
+I’m a JavaScript-first developer passionate about building modern web applications.
+From mobile to web, frontend to backend—I’m on a journey to become a well-rounded full-stack developer.
 
-<!--
-**rumpapl/rumpapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 What I Love Working On
+- Frontend development using React & Next.js
+- Building intuitive UIs with Tailwind CSS, shadcn/ui & Material UI
+- Creating reliable APIs and task pipelines with Express, Koa, and MongoDB
+- Automating tasks and scheduling with cron jobs and background workers
+- Leveraging Docker for containerization to streamline development and deployment
+- Experimenting with better patterns for developer experience and clean architecture
 
-Here are some ideas to get you started:
+### 🧠 Currently Exploring
+- Full-stack development with Next.js App Router
+- Server actions, caching strategies, and modern rendering patterns
+- Clean architecture and system design for scalable apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+#### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### 🧰 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next-334155?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Koa](https://img.shields.io/badge/Koa-7A5CFA?style=for-the-badge&logo=koa&logoColor=white)
+![Express](https://img.shields.io/badge/Express-6C757D?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### ⛁ Databases & ORMs
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ⚙️ UI & Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn_ui-1F2937?style=for-the-badge)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+#### 🔧  Tools & Technologies
+![Zod](https://img.shields.io/badge/Zod-8B5CF6?style=for-the-badge&logo=zod&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
+
+### 📫 Get in Touch
+I’m always excited to connect and collaborate! Feel free to reach out:
+
+
