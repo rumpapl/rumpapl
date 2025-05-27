@@ -44,4 +44,5 @@ From mobile to web, frontend to backend—I’m on a journey to become a well-ro
 ### 📫 Get in Touch
 I’m always excited to connect and collaborate! Feel free to reach out:
 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rumpapaul/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rumpapaul0201@gmail.com)  
