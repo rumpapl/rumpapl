@@ -1,4 +1,4 @@
-# 👋Hi, I'm Rumpa
+# 👋Hi, I'm Rumpa Paul
 I’m a JavaScript-first developer passionate about building modern web applications.
 From mobile to web, frontend to backend—I’m on a journey to become a well-rounded full-stack developer.
 
