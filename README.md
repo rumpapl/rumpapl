@@ -10,11 +10,6 @@ From mobile to web, frontend to backend—I’m on a journey to become a well-ro
 - Leveraging Docker for containerization to streamline development and deployment
 - Experimenting with better patterns for developer experience and clean architecture
 
-### 🧠 Currently Exploring
-- Full-stack development with Next.js App Router
-- Server actions, caching strategies, and modern rendering patterns
-- Clean architecture and system design for scalable apps
-
 ## 🛠 Tech Stack
 
 #### 🚀 Languages
